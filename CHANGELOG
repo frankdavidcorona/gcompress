@@ -1,0 +1,4 @@
+v1.0.0
+Simple compress files.
+v1.0.1
+Add module 'gulp-logger' for the logger of the task.
