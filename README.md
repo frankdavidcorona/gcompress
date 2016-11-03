@@ -15,12 +15,33 @@ Have installed and correctly configured:
  2. nodejs
  2. gulp
 
+ ---
+Installing dependencies:
+-
+Installing dependencies in Ubuntu/Debian.
+<code>sudo npm install nodejs nodejs-legacy npm git</code>
+Installing <b>gulp</b> via npm.
+<code>sudo npm install -g gulp</code>
+
+
+---
+ Dependencies:
+ 
+  	gulp
+    gulp-logger
+    gulp-uglify
+    i
+    npm
+    pump
+    recursive-readdir
+    yargs
+
 ---
 Install
 -
 
  1. Clone the repository with the comand:<br>
-    <code>git clone https://codecomunidades.prod.uci.cu/corona/gcompress.git</code>
+    <code>git clone https://github.com/frankdavidcorona/gcompress.git</code>
     
  2. Locate into the recent download folder:<br>
  <code>cd gulp-minify</code>
