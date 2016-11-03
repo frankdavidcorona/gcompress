@@ -15,7 +15,7 @@ Have installed and correctly configured:
  2. nodejs
  2. gulp
 
- ---
+---
 Installing dependencies:
 -
 Installing dependencies in Ubuntu/Debian.
@@ -26,8 +26,7 @@ Installing <b>gulp</b> via npm.
 
 ---
  Dependencies:
- 
-  	gulp
+   	gulp
     gulp-logger
     gulp-uglify
     i
