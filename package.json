@@ -1,11 +1,11 @@
 {
   "author": "Ing. Frank David Corona Prendes <frankdavid.corona@gmail.com>",
-  "name": "Gulp_Minify_STD",
+  "name": "Gcompress",
   "version": "1.0.1",
-  "description": "Proyecto para la compresion de ficheros Javascript utilizando Gulp",
+  "description": "Gulp task to compress javascript files.",
   "repository": {
     "type": "git",
-    "url": "https://codecomunidades.prod.uci.cu/corona/gcompress.git"
+    "url": "https://github.com/frankdavidcorona/gcompress.git"
   },
   "license": "MIT",
   "dependencies": {
