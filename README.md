@@ -43,7 +43,7 @@ Install
     <code>git clone https://github.com/frankdavidcorona/gcompress.git</code>
     
  2. Locate into the recent download folder:<br>
- <code>cd gulp-minify</code>
+ <code>cd gcompress</code>
  
  3. Install dependencies:<br>
  <code>npm install</code>
