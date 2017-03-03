@@ -14,7 +14,7 @@
     var recursive = require('recursive-readdir');
     var logger = require('gulp-logger');
 
-    gulp.task('gcompress', function () {
+    gulp.task('default', function () {
         recursive('"' + [argv.source + '"' + '/**/*.js'], function (err, file) {
             var options = {
                 mangle: false
